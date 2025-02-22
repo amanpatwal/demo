@@ -9,7 +9,7 @@ export default function Home() {
           <div>
             <h1 className="text-[#E62E2D] font-bold ">// CONTACT US</h1>
             <p className="text-5xl text-[#171B2A] font-bold">
-              HAVE LEGAL QUERIES? LEAVE THEM TO US.
+              HAVE LEGAL QUERIES? LEAVE THEM TO US. dfdsfdsf
             </p>
             <p>
               Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa
