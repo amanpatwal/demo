@@ -17,6 +17,8 @@ export default function Home() {
             </p>
             <div className="flex">
               <MapPin />
+              <p>Address</p>
+              <p>S</p>
             </div>
           </div>
           <div></div>
